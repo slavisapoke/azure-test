@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebApp/MyWebApp/.vs/MyWebApp
+/WebApp/MyWebApp/PokeTestWebApp/bin
+/WebApp/MyWebApp/PokeTestWebApp/obj
