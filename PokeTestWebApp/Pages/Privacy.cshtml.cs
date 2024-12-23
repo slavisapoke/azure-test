@@ -14,6 +14,7 @@ namespace PokeTestWebApp.Pages
 
         public void OnGet()
         {
+            throw new Exception("Error retrieving data on Privacy model");
         }
     }
 
