@@ -14,7 +14,7 @@ namespace PokeTestWebApp.Pages
 
         public void OnGet()
         {
-
+            _logger.LogInformation("MY LOG MESSAGE");
         }
     }
 }
